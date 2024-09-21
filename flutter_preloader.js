@@ -16,7 +16,7 @@ overlay.style.cssText = `
 
 const svgImage = document.createElement('img');
 svgImage.id = 'svgImage';
-svgImage.src = 'https://github.com/callumturnbull00/repository1/blob/main/icons8-loading.gif';
+svgImage.src = 'https://github.com/callumturnbull00/repository1/blob/main/loading-svgrepo-com.svg';
 svgImage.style.cssText = `
     max-width: 100%;
     max-height: 100%;
